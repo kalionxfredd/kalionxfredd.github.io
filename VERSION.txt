@@ -1,0 +1,13 @@
+Project: Fredd Willems — Original Images (GitHub Pages)
+Repo: https://github.com/kalionxfredd/kalionxfredd.github.io
+Site: https://kalionxfredd.github.io/
+
+Commit-Date: 2025-10-25T16:32:41+02:00
+Tag: v1
+
+Build: GitHub Pages (Jekyll: minimal theme)
+Files: index.html, assets/fredd/*.jpg, _config.yml, LICENSE
+
+Owner: Francisco José Periago Oliver (kalionxfredd@gmail.com)
+
+Notes: This repository hosts the original images of the AI persona “Fredd Willems” for verification by rights teams. All rights reserved.
